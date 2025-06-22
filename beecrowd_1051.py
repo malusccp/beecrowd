@@ -1,5 +1,5 @@
 salario = float(input())
-imposto = 0.0
+imposto = 0
 if salario <= 2000:
     print('Isento')
 else:
