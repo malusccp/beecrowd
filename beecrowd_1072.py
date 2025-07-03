@@ -10,7 +10,6 @@
 # Para cada caso, imprima quantos números estão dentro (in) e quantos valores estão fora (out) do intervalo.
 
 N = int(input())
-
 num_in = 0
 num_out = 0
 for i in range(1, N+1):

@@ -3,12 +3,12 @@ def main():
 
   while qtd > 0:
     numero = int(input())
-    sobrenome = 'EVEN' if numero % 2 == 0 else 'ODD'
+    tipo = 'EVEN' if numero % 2 == 0 else 'ODD'
 
     if numero > 0:
-      print(f'{sobrenome} POSITIVE')
+      print(f'{tipo} POSITIVE')
     elif numero < 0:
-      print(f'{sobrenome} NEGATIVE') 
+      print(f'{tipo} NEGATIVE') 
     else:
       print('NULL')
 
