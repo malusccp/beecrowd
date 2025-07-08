@@ -27,7 +27,7 @@
 # A saída consistirá de uma série de linhas, uma linha para cada linha de entrada. Cada linha consistirá de um m de acordo com o esquema 
 # acima apresentado.   
 
-
+            
 
 
 
